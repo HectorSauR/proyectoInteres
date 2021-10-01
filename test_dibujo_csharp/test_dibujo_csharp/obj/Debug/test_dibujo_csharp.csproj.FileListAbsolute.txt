@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\bin\Debug\test_dibujo_csharp.exe.config
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\bin\Debug\test_dibujo_csharp.exe
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\bin\Debug\test_dibujo_csharp.pdb
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.Form1.resources
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.Properties.Resources.resources
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.exe
+C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.pdb

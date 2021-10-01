@@ -1,0 +1,11 @@
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\bin\Debug\InteresSimple.exe.config
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\bin\Debug\InteresSimple.exe
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\bin\Debug\InteresSimple.pdb
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.csprojAssemblyReference.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.FInteresSimple.resources
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.FResultado.resources
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.Properties.Resources.resources
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.csproj.GenerateResource.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.csproj.CoreCompileInputs.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.exe
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.pdb
