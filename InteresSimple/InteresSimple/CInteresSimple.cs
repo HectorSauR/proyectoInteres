@@ -14,12 +14,15 @@ namespace InteresSimple
         double _capitalInicial;
         double _valorFinal;
         double _numPeriodos;
+        bool _ganPer;
         //Propiedades
         public double Interes { get => _interes; set => _interes = value; }
         public double TasaDeInteres { get => _tasaDeInteres; set => _tasaDeInteres = value; }
         public double CapitalInicial { get => _capitalInicial; set => _capitalInicial = value; }
         public double ValorFinal { get => _valorFinal; set => _valorFinal = value; }
         public double NumPeriodos { get => _numPeriodos; set => _numPeriodos = value; }
+        public bool GanPer { get => _ganPer; set => _ganPer = value; }
+
         //Método
         public void calcularInteres()
         {

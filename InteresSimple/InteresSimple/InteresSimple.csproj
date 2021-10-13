@@ -53,6 +53,12 @@
     <Compile Include="FInteresSimple.Designer.cs">
       <DependentUpon>FInteresSimple.cs</DependentUpon>
     </Compile>
+    <Compile Include="Grafica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grafica.Designer.cs">
+      <DependentUpon>Grafica.cs</DependentUpon>
+    </Compile>
     <Compile Include="FResultado.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +69,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FInteresSimple.resx">
       <DependentUpon>FInteresSimple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grafica.resx">
+      <DependentUpon>Grafica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FResultado.resx">
       <DependentUpon>FResultado.cs</DependentUpon>

@@ -9,3 +9,4 @@ C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimpl
 C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.csproj.CoreCompileInputs.cache
 C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.exe
 C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\InteresSimple.pdb
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\InteresSimple\InteresSimple\obj\Debug\test_dibujo_csharp.Form1.resources

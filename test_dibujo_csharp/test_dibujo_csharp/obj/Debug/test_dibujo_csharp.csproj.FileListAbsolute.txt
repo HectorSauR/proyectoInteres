@@ -8,3 +8,10 @@ C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_
 C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.exe
 C:\Users\DELL\source\repos\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.pdb
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csprojAssemblyReference.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.Form1.resources
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.Properties.Resources.resources
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.GenerateResource.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.csproj.CoreCompileInputs.cache
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.exe
+C:\Universidad\5.Quinto semestre\Semestre 5 - programación\ProgramaInteresSimple\test_dibujo_csharp\test_dibujo_csharp\obj\Debug\test_dibujo_csharp.pdb

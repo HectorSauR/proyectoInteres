@@ -13,9 +13,17 @@ namespace test_dibujo_csharp
 
     public partial class Form1 : Form
     {
-        public Form1()
+        double _numero;
+        bool _tipo;
+
+        public double Numero { get => _numero; set => _numero = value; }
+        public bool Tipo { get => _tipo; set => _tipo = value; }
+
+        public Form1(Double n, bool tipo)
         {
             InitializeComponent();
+            Numero = n;
+            Tipo = tipo;
         }
 
         public void Dibujar(Double n, bool tipo)
@@ -57,7 +65,7 @@ namespace test_dibujo_csharp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Dibujar(10.5, false);
+            Dibujar(Numero, Tipo);
         }
     }
 }

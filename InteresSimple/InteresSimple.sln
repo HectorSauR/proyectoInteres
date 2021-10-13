@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteresSimple", "InteresSimple\InteresSimple.csproj", "{0E6B999F-D459-4D72-9206-1D3EB4CB9A55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_dibujo_csharp", "..\test_dibujo_csharp\test_dibujo_csharp\test_dibujo_csharp.csproj", "{F78AAFEE-1885-4875-88E2-DDC2096FBBA2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{0E6B999F-D459-4D72-9206-1D3EB4CB9A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E6B999F-D459-4D72-9206-1D3EB4CB9A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E6B999F-D459-4D72-9206-1D3EB4CB9A55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F78AAFEE-1885-4875-88E2-DDC2096FBBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F78AAFEE-1885-4875-88E2-DDC2096FBBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F78AAFEE-1885-4875-88E2-DDC2096FBBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F78AAFEE-1885-4875-88E2-DDC2096FBBA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
