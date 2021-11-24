@@ -333,6 +333,7 @@ namespace InteresSimple
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "FInteresSimple";
             this.Text = "FInteresSimple";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FInteresSimple_FormClosed);
             this.Load += new System.EventHandler(this.FInteresSimple_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

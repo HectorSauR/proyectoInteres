@@ -13,9 +13,11 @@ namespace InteresSimple
 {
     public partial class FInteresSimple : Form
     {
-        public FInteresSimple()
+        Form frm;
+        public FInteresSimple(Form form)
         {
             InitializeComponent();
+            frm = form;
         }
 
         private void rb_CapitalInicial_CheckedChanged_1(object sender, EventArgs e)
@@ -219,6 +221,11 @@ namespace InteresSimple
         private void txt_capInicial_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void FInteresSimple_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            frm.Show();
         }
     }
 }

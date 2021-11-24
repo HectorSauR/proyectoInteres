@@ -16,7 +16,7 @@ namespace InteresSimple
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FInteresSimple());
+            Application.Run(new FSeleccionInteres());
         }
     }
 }

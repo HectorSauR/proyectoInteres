@@ -46,12 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CInteresCompuesto.cs" />
     <Compile Include="CInteresSimple.cs" />
+    <Compile Include="FInteresCompuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FInteresCompuesto.Designer.cs">
+      <DependentUpon>FInteresCompuesto.cs</DependentUpon>
+    </Compile>
     <Compile Include="FInteresSimple.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FInteresSimple.Designer.cs">
       <DependentUpon>FInteresSimple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSeleccionInteres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSeleccionInteres.Designer.cs">
+      <DependentUpon>FSeleccionInteres.cs</DependentUpon>
     </Compile>
     <Compile Include="Grafica.cs">
       <SubType>Form</SubType>
@@ -59,22 +72,19 @@
     <Compile Include="Grafica.Designer.cs">
       <DependentUpon>Grafica.cs</DependentUpon>
     </Compile>
-    <Compile Include="FResultado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FResultado.Designer.cs">
-      <DependentUpon>FResultado.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FInteresCompuesto.resx">
+      <DependentUpon>FInteresCompuesto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FInteresSimple.resx">
       <DependentUpon>FInteresSimple.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FSeleccionInteres.resx">
+      <DependentUpon>FSeleccionInteres.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Grafica.resx">
       <DependentUpon>Grafica.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FResultado.resx">
-      <DependentUpon>FResultado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
